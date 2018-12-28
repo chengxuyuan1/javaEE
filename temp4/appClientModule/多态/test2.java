@@ -1,7 +1,6 @@
 package 多态;
 class A{
 	public void tell1() {
-		System.out.println("A---tell1");
 	}
 	public void tell2() {
 		System.out.println("A---tell2");
