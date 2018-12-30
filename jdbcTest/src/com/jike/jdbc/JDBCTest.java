@@ -71,8 +71,37 @@ public class JDBCTest {
 			}
 		}
 	}
+	public static void update() {
+		Connection connection=getConnection();
+		try {
+			String sql="UPDATE tbl_user SET email='tom@126.com' WHERE name='Tom'";
+			Statement statement=connection.createStatement();
+			int count = statement.executeUpdate(sql);
+			System.out.println("向用户表中更新了"+count+" 条记录");
+			connection.close();
+		} catch (Exception e) {
+			// TODO: handle exception
+			e.printStackTrace();
+		}
+	}
+	public static void delete() {
+		Connection connection=getConnection();
+		try {
+			String sql="DELETE FROM tbl_user WHERE name='Tom'";
+			Statement statement=connection.createStatement();
+			int count = statement.executeUpdate(sql);
+			System.out.println("从用户表中删除了"+count+" 条记录");
+			connection.close();
+		} catch (Exception e) {
+			// TODO: handle exception
+			e.printStackTrace();
+		}
+	}
 	public static void main(String[] args) {
-		insert();
-		selectAll();
+//		update();
+//		insert();
+//		selectAll();
+		delete();
+		
 	}
 }
