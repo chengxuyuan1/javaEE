@@ -13,7 +13,7 @@ public class HelloServlet extends HttpServlet{
 	@Override
 	public void init() throws ServletException {
 		// TODO Auto-generated method stub
-		super.init();
+		//super.init();
 		System.out.println("======init without parameters=====");
 	}
 	@Override
