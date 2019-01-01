@@ -47,7 +47,7 @@ body {
 </head>
 
 <body>
-	<form action="<%= request.getContextPath() %>/checkServlet" method="post" name="LoginForm">
+	<form action="<%= request.getContextPath() %>/cheakServlet" method="post" name="LoginForm">
 
 		<table border="1" cellspacing="0" cellpadding="5" bordercolor="silver" align="center">
 			<tr>

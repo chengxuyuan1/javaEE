@@ -2,6 +2,7 @@ package com.jike.dao.lmpl;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
+import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.Properties;
 
@@ -41,6 +42,16 @@ public class UserDaolmpl implements UserDao {
 		PreparedStatement preparedStatement=connection.prepareStatement(updateSql);
 		preparedStatement.setLong(1, user.getId());
 		preparedStatement.execute();
+	}
+
+	@Override
+	public ResultSet get(Connection connection, User user) throws SQLException {
+		// TODO Auto-generated method stub
+		PreparedStatement preparedStatement=connection.prepareStatement("SELECT * FROM "
+				+ "tbl_user WHERE name=? AND password=?");
+		preparedStatement.setString(1, user.getName());
+		preparedStatement.setString(2, user.getPassword());
+		return preparedStatement.executeQuery();
 	}
 	
 }

@@ -7,7 +7,7 @@
 <title>登录页面</title>
 </head>
 <body>
-	<form action="<%=request.getContextPath() %>/loginServlet" method="get">
+	<form action="<%=request.getContextPath() %>/loginServlet" method="post">
 		username:<input type="text"  name="uname"/> <br/>
 		password: <input type="password" name="upwd"/> <br/>
 		<input type="submit" value="login"/>
