@@ -1,0 +1,163 @@
+!SESSION 2019-01-03 10:03:10.133 -----------------------------------------------
+eclipse.buildId=16.0.0.CI-001
+java.version=10.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=zh_CN_#Hans
+Framework arguments:  -keyring /Users/Macx/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/Macx/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2019-01-03 10:03:12.877
+!MESSAGE System property http.proxyHost has been set to 127.0.0.1 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2019-01-03 10:03:12.877
+!MESSAGE System property http.proxyPort has been set to 64175 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2019-01-03 10:03:12.878
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2019-01-03 10:03:12.881
+!MESSAGE System property https.proxyHost has been set to 127.0.0.1 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2019-01-03 10:03:12.882
+!MESSAGE System property https.proxyPort has been set to 64175 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.ui 2 0 2019-01-03 10:04:02.498
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-01-03 10:04:02.498
+!MESSAGE Cannot bind to an undefined command: plug-in='com.genuitec.eclipse.theming.ui', id='com.genuitec.myeclipse.help.darktheme.commandid'
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2019-01-03 10:04:04.954
+!MESSAGE A DevStyle Theme is being activated on this workspace; preparing colors and configuration
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2019-01-03 10:04:04.981
+!MESSAGE DevStyle has archived current color configurations to alternate preferences - will be restored when switching out of the DevStyle Theme
+
+!ENTRY com.genuitec.eclipse.theming.ui 4 0 2019-01-03 10:04:04.998
+!MESSAGE The file resources/css/dark.css Could not be found in bundle org.eclipse.lsp4e
+
+!ENTRY org.eclipse.jface 2 0 2019-01-03 10:04:05.669
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-01-03 10:04:05.669
+!MESSAGE A conflict occurred for COMMAND+SHIFT+Z:
+Binding(COMMAND+SHIFT+Z,
+	ParameterizedCommand(Command(org.eclipse.angularjs.ui.navigate.open.angular.element,Open Angular Element,
+		Opens an Angular Element in a JavaScript editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5bd9615c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+Z,
+	ParameterizedCommand(Command(org.skyway.core.ui.generate,Generate,
+		Generate with Skyway,
+		Category(org.skyway.core.ui.category.views,Window,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@f9a82ac,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+Z,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.redo,Redo,
+		Redo the last operation,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@27475587,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,cocoa,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-01-03 10:04:05.669
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@86a4b9b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1829184b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-01-03 10:04:05.669
+!MESSAGE A conflict occurred for COMMAND+SHIFT+V:
+Binding(COMMAND+SHIFT+V,
+	ParameterizedCommand(Command(net.jeeeyul.pdetools.clipboard.pasteHistory,Paste Content in History,
+		,
+		Category(net.jeeeyul.pdetools.category,PDE Tools,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@43fd6600,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,,system)
+Binding(COMMAND+SHIFT+V,
+	ParameterizedCommand(Command(org.eclipse.jdt.debug.ui.command.OpenFromClipboard,Open from Clipboard,
+		Opens a Java element or a Java stack trace from clipboard,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5e0bf895,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+V,
+	ParameterizedCommand(Command(org.skyway.core.ui.validate,Validate,
+		Run Skyway Validation,
+		Category(org.skyway.core.ui.category.views,Window,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@467465c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.ui 2 2 2019-01-03 10:04:06.650
+!MESSAGE Invalid preference category path: org.jboss.tools.common.model.ui.MainPreferencePage (bundle: org.jboss.tools.foundation.ui, page: org.jboss.tools.foundation.ui.internal.credentials.CredentialPreferencePage)
+
+!ENTRY org.eclipse.ui 2 2 2019-01-03 10:04:06.651
+!MESSAGE Invalid preference category path: org.jboss.tools.common.model.ui.MainPreferencePage (bundle: org.jboss.tools.runtime.ui, page: org.jboss.tools.runtime.preferences.RuntimePreferencePage)
+
+!ENTRY org.eclipse.ui 2 2 2019-01-03 10:04:06.652
+!MESSAGE Invalid preference category path: org.eclipse.m2e.core.preferences.Maven2PreferencePage (bundle: org.eclipse.m2e.sourcelookup.ui, page: org.eclipse.m2e.sourcelookup.ui.internal.SourceLookupPreferencePage)
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2019-01-03 10:04:11.707
+!MESSAGE Removing part descriptor with the 'com.genuitec.eclipse.modeling.ui.OverviewView' id and the 'JSF Flow Overview' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2019-01-03 10:04:12.241
+!MESSAGE Project facet grails.app has not been defined. It is used in plugin com.vmware.vfabric.ide.eclipse.tcserver.core.
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2019-01-03 10:04:21.974
+!MESSAGE Installed snippet library: /Applications/MyEclipse CI/MyEclipse CI.app/Contents/Profile/configuration/org.eclipse.osgi/169/0/.cp/snippets/html/htmlform_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2019-01-03 10:04:21.994
+!MESSAGE Installed snippet library: /Applications/MyEclipse CI/MyEclipse CI.app/Contents/Profile/configuration/org.eclipse.osgi/169/0/.cp/snippets/html/javascript_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2019-01-03 10:04:22.021
+!MESSAGE Installed snippet library: /Applications/MyEclipse CI/MyEclipse CI.app/Contents/Profile/configuration/org.eclipse.osgi/169/0/.cp/snippets/html/forms_lists_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2019-01-03 10:04:22.040
+!MESSAGE Installed snippet library: /Applications/MyEclipse CI/MyEclipse CI.app/Contents/Profile/configuration/org.eclipse.osgi/169/0/.cp/snippets/html/css_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2019-01-03 10:04:22.056
+!MESSAGE Installed snippet library: /Applications/MyEclipse CI/MyEclipse CI.app/Contents/Profile/configuration/org.eclipse.osgi/169/0/.cp/snippets/html/html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2019-01-03 10:04:22.075
+!MESSAGE Installed snippet library: /Applications/MyEclipse CI/MyEclipse CI.app/Contents/Profile/configuration/org.eclipse.osgi/169/0/.cp/snippets/jsp/struts_tiles_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2019-01-03 10:04:22.095
+!MESSAGE Installed snippet library: /Applications/MyEclipse CI/MyEclipse CI.app/Contents/Profile/configuration/org.eclipse.osgi/169/0/.cp/snippets/jsp/jsf_f_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2019-01-03 10:04:22.117
+!MESSAGE Installed snippet library: /Applications/MyEclipse CI/MyEclipse CI.app/Contents/Profile/configuration/org.eclipse.osgi/169/0/.cp/snippets/jsp/struts_logic_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2019-01-03 10:04:22.138
+!MESSAGE Installed snippet library: /Applications/MyEclipse CI/MyEclipse CI.app/Contents/Profile/configuration/org.eclipse.osgi/169/0/.cp/snippets/jsp/struts_bean_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2019-01-03 10:04:22.166
+!MESSAGE Installed snippet library: /Applications/MyEclipse CI/MyEclipse CI.app/Contents/Profile/configuration/org.eclipse.osgi/169/0/.cp/snippets/jsp/struts_html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2019-01-03 10:04:22.199
+!MESSAGE Installed snippet library: /Applications/MyEclipse CI/MyEclipse CI.app/Contents/Profile/configuration/org.eclipse.osgi/169/0/.cp/snippets/jsp/jsf_h_snippets.xml
+
+!ENTRY org.eclipse.core.jobs 2 2 2019-01-03 10:04:59.240
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: com.genuitec.eclipse.theming.ui.IconDownloaderJob
+
+!ENTRY org.eclipse.core.jobs 2 2 2019-01-03 10:04:59.242
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.m2e.core.internal.index.nexus.IndexUpdaterJob

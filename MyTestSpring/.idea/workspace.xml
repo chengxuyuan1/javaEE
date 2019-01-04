@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20286bb3-68ef-4a58-b9b2-395c5a0fcc0a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/helloMessage.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jike/chapter01/HelloChina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jike/chapter01/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jike/chapter01/IHelloMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jike/chapter01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jike/chapter01/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jike/chapter01/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/struts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/sun-jaxws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Debug/bin/control/DebugTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Debug/bin/control/DebugTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Debug/bin/control/DebugTest2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Debug/bin/control/DebugTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Debug/bin/control/DebugTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Debug/bin/control/test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Debug/bin/control/test3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buildPathLearn/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buildPathLearn/bin/test/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../buildPathLearn/bin/test/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buildPathLearn/bin/test/test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../buildPathLearn/bin/test/test2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/.settings/org.eclipse.wst.common.component" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/appClientModule/com/jike/view/MyView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Date/Demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Date/Demo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Date/Demo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Date/Demo02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Date/Demo03.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Date/Demo03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Exc/Exc.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Exc/Exc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Exc/MyException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Exc/MyException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Exc/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Exc/test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Exc/test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Exc/test2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Exc/test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Exc/test3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Exc/test4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Exc/test4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Test1/arr.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Test1/arr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Test1/arr1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Test1/arr1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Test1/arr2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Test1/arr2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Test1/arr3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Test1/arr3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Test1/arr4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Test1/arr4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Test1/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Test1/test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Test1/test5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Test1/test5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/People.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/People.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/People1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/People1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/People2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/People2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/Person2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/Person2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/Ref1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/Ref1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/RefTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/RefTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/extends1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/extends1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/person3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/person3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/structMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/structMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/student1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/student1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/test2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/Abs.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/Abs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/Abs1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/Abs1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/AbsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/AbsDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/Father.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/Father.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/N.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/N.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/People.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/People.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/People2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/People2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/PetWoker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/PetWoker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/Son.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/Son.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/abstractTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/abstractTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/finalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/finalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/interfaceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/interfaceDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/test2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/extendsDemo/test3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/method/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/method/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/method/classTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/method/classTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/method/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/method/test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/method/test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/method/test2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/method/test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/method/test3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/method/test4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/method/test4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/method/test5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/method/test5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/method/test6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/method/test6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/modle/Modle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/modle/Modle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/testString/stringBuffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/testString/stringBuffer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/testString/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/testString/test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/testString/test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/testString/test2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/testString/test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/testString/test3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/testString/test4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/testString/test4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/view/MyView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/基础知识陷阱/FloatTrap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/基础知识陷阱/FloatTrap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/基础知识陷阱/OpreatorTrap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/基础知识陷阱/OpreatorTrap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/基础知识陷阱/ReturnTrap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/基础知识陷阱/ReturnTrap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/基础知识陷阱/StringTrap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/基础知识陷阱/StringTrap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/helloFile/helloFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/helloFile/helloFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/helloFile/helloFolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/helloFile/helloFolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/helloFile/readFileProperty.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/helloFile/readFileProperty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/helloFile/readWriteFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/helloFile/readWriteFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/helloFile/scanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/helloFile/scanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/helloFile/setProperty.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/helloFile/setProperty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/test10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/test10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/test11.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/test11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/test12.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/test12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/test13.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/test13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/test14.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/test14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/test15.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/test15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/test16.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/test16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/test17.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/test17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/test18.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/test18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/test2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/test3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/test4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/test4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/test5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/test5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/test6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/test6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/test7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/test7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/test8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/test8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/test9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/test9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/多态/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/多态/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/多态/A1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/多态/A1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/多态/A2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/多态/A2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/多态/AbsDemo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/多态/AbsDemo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/多态/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/多态/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/多态/B1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/多态/B1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/多态/B2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/多态/B2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/多态/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/多态/C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/多态/C1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/多态/C1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/多态/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/多态/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/多态/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/多态/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/多态/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/多态/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/多态/USBDisk.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/多态/USBDisk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/多态/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/多态/Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/多态/interDemo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/多态/interDemo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/多态/polDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/多态/polDemo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/多态/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/多态/test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/多态/test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/多态/test2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/泛型/Con.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/泛型/Con.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/泛型/Gen.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/泛型/Gen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/泛型/Gener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/泛型/Gener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/泛型/Gin.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/泛型/Gin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/泛型/Info.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/泛型/Info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/泛型/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/泛型/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/泛型/genericDemo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/泛型/genericDemo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/泛型/genericDemo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/泛型/genericDemo02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/泛型/genericDemo03.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/泛型/genericDemo03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/泛型/genericDemo04.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/泛型/genericDemo04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/泛型/genericDemo05.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/泛型/genericDemo05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/泛型/genericDemo06.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/泛型/genericDemo06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/泛型/genericDemo07.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/泛型/genericDemo07.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jike/chapter01/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/helloMessage.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="struts_2_5" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/example/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/example/Person.java" />
+        <option value="$PROJECT_DIR$/src/com/jike/chapter01/test1.java" />
+        <option value="$PROJECT_DIR$/helloMessage.xml" />
+        <option value="$PROJECT_DIR$/src/com/jike/chapter01/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="60" />
+    <option name="y" value="114" />
+    <option name="width" value="1260" />
+    <option name="height" value="695" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyTestSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyTestSpring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyTestSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyTestSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyTestSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyTestSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jike" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyTestSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyTestSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jike" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyTestSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyTestSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyTestSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyTestSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyTestSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="MyTestSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546602520984" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/web/WEB-INF" />
+      <recent name="$PROJECT_DIR$/src/example" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.HelloWorld" />
+      <module name="MyTestSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jike.chapter01.Main" />
+      <module name="MyTestSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jike.chapter01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.Main" />
+      <module name="MyTestSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jike.chapter01.test1" />
+      <module name="MyTestSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jike.chapter01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.test1" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20286bb3-68ef-4a58-b9b2-395c5a0fcc0a" name="Default Changelist" comment="" />
+      <created>1546598473175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546598473175</updated>
+      <workItem from="1546598475416" duration="3271000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3271000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="60" y="114" width="1260" height="695" extended-state="1" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Struts Assistant" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958949" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3283582" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33001658" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="CDI" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/example/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/beans.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/helloMessage.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/helloMessage.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example/HelloChina.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#210#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example/IHelloMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jike/chapter01/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jike/chapter01/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jike/chapter01/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jike/chapter01/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloMessage.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

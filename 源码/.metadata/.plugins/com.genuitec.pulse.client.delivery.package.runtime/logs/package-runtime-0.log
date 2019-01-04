@@ -1,0 +1,4 @@
+1月 03, 2019 10:04:17 上午 com.genuitec.pulse.client.deliverypackage.runtime.internal.Activator initializeLoggers
+信息: Package starting up at Thu Jan 03 10:04:17 CST 2019
+1月 03, 2019 10:04:57 上午 org.eclipse.birt.core.script.functionservice.impl.FunctionProvider setFunctionProvider
+警告: FunctionProvider should not set twice.

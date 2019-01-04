@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Languages1 cat="it">
+	<lan id="1">
+		<name>java</name>
+		<ide>eclips</ide>
+	</lan>
+	<lan id="2">
+		<name>swift</name>
+		<ide>xcode</ide>
+	</lan>
+</Languages1>
