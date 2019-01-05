@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20286bb3-68ef-4a58-b9b2-395c5a0fcc0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/helloMessage.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jike/chapter01/HelloChina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jike/chapter01/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jike/chapter01/IHelloMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jike/chapter01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jike/chapter01/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jike/chapter01/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/struts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/sun-jaxws.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Debug/bin/control/DebugTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Debug/bin/control/DebugTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Debug/bin/control/DebugTest2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Debug/bin/control/DebugTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Debug/bin/control/DebugTest2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Debug/bin/control/test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Debug/bin/control/test3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../buildPathLearn/bin/module-info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../buildPathLearn/bin/test/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../buildPathLearn/bin/test/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../buildPathLearn/bin/test/test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../buildPathLearn/bin/test/test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp4/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp4/.settings/org.eclipse.wst.common.component" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/.settings/org.eclipse.wst.common.component" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp4/appClientModule/com/jike/view/MyView.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jike/testPackage/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../temp4/build/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../temp4/build/classes/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Date/Demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Date/Demo01.class" afterDir="false" />
@@ -34,6 +15,8 @@
       <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Exc/test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Exc/test2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Exc/test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Exc/test3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Exc/test4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Exc/test4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Json/CreateJson.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Json/CreateJson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Json/ReadJson.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Json/ReadJson.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Test1/arr.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Test1/arr.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Test1/arr1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Test1/arr1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Test1/arr2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Test1/arr2.class" afterDir="false" />
@@ -41,6 +24,9 @@
       <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Test1/arr4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Test1/arr4.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Test1/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Test1/test1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Test1/test5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/Test1/test5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/XML/CreateXML.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/XML/CreateXML.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/XML/Dom4jXML.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/XML/Dom4jXML.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/XML/ReadXML.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/XML/ReadXML.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/People.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/People.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/People1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/People1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/People2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/classDemo/People2.class" afterDir="false" />
@@ -88,7 +74,6 @@
       <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/testString/test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/testString/test2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/testString/test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/testString/test3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/testString/test4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/testString/test4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/view/MyView.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/基础知识陷阱/FloatTrap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/基础知识陷阱/FloatTrap.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/基础知识陷阱/OpreatorTrap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/基础知识陷阱/OpreatorTrap.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../temp4/build/classes/com/jike/基础知识陷阱/ReturnTrap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp4/build/classes/com/jike/基础知识陷阱/ReturnTrap.class" afterDir="false" />
@@ -156,25 +141,41 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MyTestSpring$Main__1_.ic" NAME="Main (1) Coverage Results" MODIFIED="1546655575525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.jike.chapter01.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="159" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MyTestSpring" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jike/chapter01/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+            <state relative-caret-position="105">
+              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/helloMessage.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -186,6 +187,7 @@
       <list>
         <option value="spring-beans.schema" />
         <option value="struts_2_5" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -203,9 +205,15 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="60" />
-    <option name="y" value="114" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="20" />
+    <option name="y" value="102" />
     <option name="width" value="1260" />
     <option name="height" value="695" />
   </component>
@@ -245,21 +253,6 @@
               <item name="MyTestSpring" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="MyTestSpring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyTestSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyTestSpring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="MyTestSpring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -271,9 +264,10 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546602520984" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546656454625" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -367,25 +361,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546598473175</updated>
-      <workItem from="1546598475416" duration="3271000" />
+      <workItem from="1546598475416" duration="4771000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3271000" />
+    <option name="totallyTimeSpent" value="4771000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="60" y="114" width="1260" height="695" extended-state="1" />
+    <frame x="20" y="102" width="1260" height="695" extended-state="0" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
-      <window_info id="Struts Assistant" />
+      <window_info id="Struts Assistant" weight="0.32922825" />
       <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Favorites" sideWeight="0.50247526" side_tool="true" weight="0.3579639" />
       <window_info id="Capture Tool" />
-      <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958949" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Web" sideWeight="0.5049505" side_tool="true" weight="0.3579639" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4950495" visible="true" weight="0.3579639" />
+      <window_info id="Structure" order="1" sideWeight="0.50247526" side_tool="true" weight="0.3579639" />
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -396,25 +390,30 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33001658" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33001658" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39966834" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
+      <window_info active="true" anchor="right" id="Maven" visible="true" weight="0.32922825" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="CDI" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="CDI" weight="0.32922825" />
+      <window_info anchor="right" id="Database" weight="0.32922825" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32922825" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24958949" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/example/test1.java">
@@ -498,20 +497,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jike/chapter01/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/helloMessage.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jike/testPackage/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jike/chapter01/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
